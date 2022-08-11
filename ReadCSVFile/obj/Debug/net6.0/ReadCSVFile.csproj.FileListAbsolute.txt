@@ -1,0 +1,17 @@
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\bin\Debug\net6.0\ReadCSVFile.exe
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\bin\Debug\net6.0\ReadCSVFile.deps.json
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\bin\Debug\net6.0\ReadCSVFile.runtimeconfig.json
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\bin\Debug\net6.0\ReadCSVFile.dll
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\bin\Debug\net6.0\ReadCSVFile.pdb
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.csproj.AssemblyReference.cache
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.AssemblyInfoInputs.cache
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.AssemblyInfo.cs
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.csproj.CoreCompileInputs.cache
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.dll
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\refint\ReadCSVFile.dll
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.pdb
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.genruntimeconfig.cache
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ref\ReadCSVFile.dll
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\Interop.VBIDE.dll
+C:\Users\Nitesh\source\repos\ReadCSVFile\ReadCSVFile\obj\Debug\net6.0\ReadCSVFile.csproj.ResolveComReference.cache
